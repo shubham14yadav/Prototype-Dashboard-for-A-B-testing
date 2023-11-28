@@ -1,7 +1,7 @@
 # Prototype-Dashboard-for-A-B-testing
 
-![BreadcrumbsPrototype-Dashboard-for-A-B-testing](Dashboard.jpeg)
-![BreadcrumbsPrototype-Dashboard-for-A-B-testing](Result.jpeg)
+![Prototype-Dashboard-for-A-B-testing](Dashboard.jpeg)
+![Prototype-Dashboard-for-A-B-testing](Result.jpeg)
 
 ## Features
 
